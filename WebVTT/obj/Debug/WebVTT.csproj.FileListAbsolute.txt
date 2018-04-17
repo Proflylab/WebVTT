@@ -1,0 +1,7 @@
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\bin\Debug\WebVTT.exe.config
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\bin\Debug\WebVTT.exe
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\bin\Debug\WebVTT.pdb
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\obj\Debug\WebVTT.csprojResolveAssemblyReference.cache
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\obj\Debug\WebVTT.csproj.CoreCompileInputs.cache
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\obj\Debug\WebVTT.exe
+C:\Users\Lefiya\source\repos\WebVTT\WebVTT\obj\Debug\WebVTT.pdb
